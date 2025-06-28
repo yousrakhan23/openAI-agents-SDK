@@ -1,0 +1,5 @@
+commands: 
+
+1. uv init
+2. uv add python-dotenv openai-agents
+3. uv run main.py

@@ -1,0 +1,6 @@
+commands: 
+
+1. uv init
+2. uv add python-dotenv openai-agents
+3. uv add chainlit
+4. uv run chainlit run main.py
